@@ -6,8 +6,8 @@ import path from 'path';
 
 // https://vite.dev/config/
 export default defineConfig({
-  base: '/github-explorer',
   plugins: [react(), tailwindcss()],
+  base: '/github-explorer',
   resolve: {
     alias: {
       '@': path.resolve(__dirname, './src'),

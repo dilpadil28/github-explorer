@@ -3,7 +3,7 @@
   "private": true,
   "version": "0.0.1",
   "type": "module",
-  "homepage": "https://dilpadil28.github.io/github-explorer",
+  "homepage": "https://dilpadil28.github.io/github-explorer/",
   "scripts": {
     "dev": "vite",
     "test": "vitest",
